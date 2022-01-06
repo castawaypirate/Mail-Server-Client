@@ -1,2 +1,2 @@
 # Mail-Server-Client
-Client - Server email service
+Server - Client email service using java Socket, Serversocket and Thread classes.
